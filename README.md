@@ -177,9 +177,9 @@ This unique combination makes it more **flexible, adaptable, and robust** than t
 ## 📥 Cloning From GitHub
 
 To copy this repository to your machine:
-git clone https://github.com/Devansh-567/evofusion-ultimate.git
-pip install -r requirements.txt
-python evo.py
+git clone [https://github.com/Devansh-567/evofusion-ultimate.git](https://github.com/Devansh-567/Surrogate-Assisted-Hybrid-Optimizer)   
+pip install -r requirements.txt   
+python evo.py   
 
 ---
 
